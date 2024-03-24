@@ -1,0 +1,686 @@
+[logic] [23:36:18.981] [INFO] *********Basic Info*********
+[logic] [23:36:19.125] [INFO] asynchronous: True
+[logic] [23:36:19.125] [INFO] server: 127.0.0.1:8888
+[logic] [23:36:19.125] [INFO] playerID: 2
+[logic] [23:36:19.125] [INFO] player type: StudentPlayer
+[logic] [23:36:19.125] [INFO] ****************************
+[logic] [23:36:19.157] [INFO] Try to connect to server...
+[logic] [23:36:19.157] [INFO] Connect to the server successfully, AI thread will be started.
+[logic] [23:36:19.173] [INFO] Message thread start!
+[logic] [23:36:19.173] [INFO] Join the AI thread.
+[logic] [23:36:19.173] [INFO] Join the player!
+[logic] [23:36:19.251] [DEBUG] Get message from server!
+[logic] [23:36:19.251] [INFO] Game start!
+[logic] [23:36:19.251] [INFO] Game map loaded!
+[logic] [23:36:19.251] [DEBUG] Buffer cleared!
+[logic] [23:36:19.251] [DEBUG] Add Student!
+[logic] [23:36:19.251] [DEBUG] Add Student!
+[logic] [23:36:19.251] [DEBUG] Add Student!
+[logic] [23:36:19.251] [DEBUG] Add Student!
+[logic] [23:36:19.251] [DEBUG] Unknown Message!
+[logic] [23:36:19.251] [DEBUG] Unknown Message!
+[logic] [23:36:19.251] [DEBUG] Unknown Message!
+[logic] [23:36:19.251] [DEBUG] Unknown Message!
+[logic] [23:36:19.251] [DEBUG] Unknown Message!
+[logic] [23:36:19.251] [DEBUG] Add Chest at 13, 31
+[logic] [23:36:19.251] [INFO] Update state!
+[logic] [23:36:19.266] [DEBUG] Get message from server!
+[logic] [23:36:19.266] [DEBUG] Buffer cleared!
+[logic] [23:36:19.266] [DEBUG] Add Student!
+[logic] [23:36:19.266] [DEBUG] Add Student!
+[logic] [23:36:19.266] [DEBUG] Add Student!
+[logic] [23:36:19.266] [DEBUG] Add Student!
+[logic] [23:36:19.266] [DEBUG] Unknown Message!
+[logic] [23:36:19.266] [DEBUG] Unknown Message!
+[logic] [23:36:19.266] [DEBUG] Unknown Message!
+[logic] [23:36:19.266] [DEBUG] Unknown Message!
+[logic] [23:36:19.266] [DEBUG] Add Chest at 13, 31
+[logic] [23:36:19.266] [INFO] Update state!
+[logic] [23:36:19.313] [DEBUG] Get message from server!
+[logic] [23:36:19.313] [DEBUG] Buffer cleared!
+[logic] [23:36:19.313] [DEBUG] Add Student!
+[logic] [23:36:19.313] [DEBUG] Add Student!
+[logic] [23:36:19.313] [DEBUG] Add Student!
+[logic] [23:36:19.313] [DEBUG] Add Student!
+[logic] [23:36:19.313] [DEBUG] Unknown Message!
+[logic] [23:36:19.313] [DEBUG] Unknown Message!
+[logic] [23:36:19.313] [DEBUG] Unknown Message!
+[logic] [23:36:19.313] [DEBUG] Unknown Message!
+[logic] [23:36:19.313] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:19.313] [INFO] Update state!
+[logic] [23:36:19.360] [DEBUG] Get message from server!
+[logic] [23:36:19.361] [DEBUG] Buffer cleared!
+[logic] [23:36:19.361] [DEBUG] Add Student!
+[logic] [23:36:19.361] [DEBUG] Add Student!
+[logic] [23:36:19.361] [DEBUG] Add Student!
+[logic] [23:36:19.361] [DEBUG] Add Student!
+[logic] [23:36:19.361] [DEBUG] Unknown Message!
+[logic] [23:36:19.362] [DEBUG] Unknown Message!
+[logic] [23:36:19.362] [DEBUG] Unknown Message!
+[logic] [23:36:19.362] [DEBUG] Unknown Message!
+[logic] [23:36:19.362] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:19.362] [INFO] Update state!
+[logic] [23:36:19.407] [DEBUG] Get message from server!
+[logic] [23:36:19.408] [DEBUG] Buffer cleared!
+[logic] [23:36:19.408] [DEBUG] Add Student!
+[logic] [23:36:19.409] [DEBUG] Add Student!
+[logic] [23:36:19.409] [DEBUG] Add Student!
+[logic] [23:36:19.409] [DEBUG] Add Student!
+[logic] [23:36:19.409] [DEBUG] Unknown Message!
+[logic] [23:36:19.409] [DEBUG] Unknown Message!
+[logic] [23:36:19.409] [DEBUG] Unknown Message!
+[logic] [23:36:19.410] [DEBUG] Unknown Message!
+[logic] [23:36:19.410] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:19.410] [INFO] Update state!
+[logic] [23:36:19.466] [DEBUG] Get message from server!
+[logic] [23:36:19.467] [DEBUG] Buffer cleared!
+[logic] [23:36:19.467] [DEBUG] Add Student!
+[logic] [23:36:19.467] [DEBUG] Add Student!
+[logic] [23:36:19.467] [DEBUG] Add Student!
+[logic] [23:36:19.467] [DEBUG] Add Student!
+[logic] [23:36:19.468] [DEBUG] Unknown Message!
+[logic] [23:36:19.468] [DEBUG] Unknown Message!
+[logic] [23:36:19.468] [DEBUG] Unknown Message!
+[logic] [23:36:19.468] [DEBUG] Unknown Message!
+[logic] [23:36:19.469] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:19.469] [INFO] Update state!
+[logic] [23:36:19.528] [DEBUG] Get message from server!
+[logic] [23:36:19.529] [DEBUG] Buffer cleared!
+[logic] [23:36:19.529] [DEBUG] Add Student!
+[logic] [23:36:19.529] [DEBUG] Add Student!
+[logic] [23:36:19.529] [DEBUG] Add Student!
+[logic] [23:36:19.529] [DEBUG] Add Student!
+[logic] [23:36:19.529] [DEBUG] Unknown Message!
+[logic] [23:36:19.529] [DEBUG] Unknown Message!
+[logic] [23:36:19.529] [DEBUG] Unknown Message!
+[logic] [23:36:19.530] [DEBUG] Unknown Message!
+[logic] [23:36:19.530] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:19.530] [INFO] Update state!
+[logic] [23:36:19.575] [DEBUG] Get message from server!
+[logic] [23:36:19.576] [DEBUG] Buffer cleared!
+[logic] [23:36:19.576] [DEBUG] Add Student!
+[logic] [23:36:19.576] [DEBUG] Add Student!
+[logic] [23:36:19.576] [DEBUG] Add Student!
+[logic] [23:36:19.576] [DEBUG] Add Student!
+[logic] [23:36:19.576] [DEBUG] Unknown Message!
+[logic] [23:36:19.576] [DEBUG] Unknown Message!
+[logic] [23:36:19.576] [DEBUG] Unknown Message!
+[logic] [23:36:19.576] [DEBUG] Unknown Message!
+[logic] [23:36:19.577] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:19.577] [INFO] Update state!
+[logic] [23:36:19.619] [DEBUG] Get message from server!
+[logic] [23:36:19.619] [DEBUG] Buffer cleared!
+[logic] [23:36:19.619] [DEBUG] Add Student!
+[logic] [23:36:19.619] [DEBUG] Add Student!
+[logic] [23:36:19.619] [DEBUG] Add Student!
+[logic] [23:36:19.619] [DEBUG] Add Student!
+[logic] [23:36:19.619] [DEBUG] Unknown Message!
+[logic] [23:36:19.619] [DEBUG] Unknown Message!
+[logic] [23:36:19.619] [DEBUG] Unknown Message!
+[logic] [23:36:19.619] [DEBUG] Unknown Message!
+[logic] [23:36:19.619] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:19.619] [INFO] Update state!
+[logic] [23:36:19.666] [DEBUG] Get message from server!
+[logic] [23:36:19.666] [DEBUG] Buffer cleared!
+[logic] [23:36:19.666] [DEBUG] Add Student!
+[logic] [23:36:19.666] [DEBUG] Add Student!
+[logic] [23:36:19.666] [DEBUG] Add Student!
+[logic] [23:36:19.666] [DEBUG] Add Student!
+[logic] [23:36:19.666] [DEBUG] Unknown Message!
+[logic] [23:36:19.666] [DEBUG] Unknown Message!
+[logic] [23:36:19.666] [DEBUG] Unknown Message!
+[logic] [23:36:19.666] [DEBUG] Unknown Message!
+[logic] [23:36:19.666] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:19.666] [INFO] Update state!
+[logic] [23:36:19.729] [DEBUG] Get message from server!
+[logic] [23:36:19.729] [DEBUG] Buffer cleared!
+[logic] [23:36:19.729] [DEBUG] Add Student!
+[logic] [23:36:19.729] [DEBUG] Add Student!
+[logic] [23:36:19.729] [DEBUG] Add Student!
+[logic] [23:36:19.729] [DEBUG] Add Student!
+[logic] [23:36:19.729] [DEBUG] Unknown Message!
+[logic] [23:36:19.729] [DEBUG] Unknown Message!
+[logic] [23:36:19.729] [DEBUG] Unknown Message!
+[logic] [23:36:19.729] [DEBUG] Unknown Message!
+[logic] [23:36:19.729] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:19.729] [INFO] Update state!
+[logic] [23:36:19.807] [DEBUG] Get message from server!
+[logic] [23:36:19.807] [DEBUG] Buffer cleared!
+[logic] [23:36:19.807] [DEBUG] Add Student!
+[logic] [23:36:19.807] [DEBUG] Add Student!
+[logic] [23:36:19.807] [DEBUG] Add Student!
+[logic] [23:36:19.807] [DEBUG] Add Student!
+[logic] [23:36:19.807] [DEBUG] Unknown Message!
+[logic] [23:36:19.807] [DEBUG] Unknown Message!
+[logic] [23:36:19.807] [DEBUG] Unknown Message!
+[logic] [23:36:19.807] [DEBUG] Unknown Message!
+[logic] [23:36:19.807] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:19.807] [INFO] Update state!
+[logic] [23:36:19.838] [DEBUG] Get message from server!
+[logic] [23:36:19.838] [DEBUG] Buffer cleared!
+[logic] [23:36:19.838] [DEBUG] Add Student!
+[logic] [23:36:19.838] [DEBUG] Add Student!
+[logic] [23:36:19.838] [DEBUG] Add Student!
+[logic] [23:36:19.838] [DEBUG] Add Student!
+[logic] [23:36:19.838] [DEBUG] Unknown Message!
+[logic] [23:36:19.838] [DEBUG] Unknown Message!
+[logic] [23:36:19.838] [DEBUG] Unknown Message!
+[logic] [23:36:19.838] [DEBUG] Unknown Message!
+[logic] [23:36:19.838] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:19.838] [INFO] Update state!
+[logic] [23:36:19.916] [DEBUG] Get message from server!
+[logic] [23:36:19.916] [DEBUG] Buffer cleared!
+[logic] [23:36:19.919] [DEBUG] Add Student!
+[logic] [23:36:19.919] [DEBUG] Add Student!
+[logic] [23:36:19.919] [DEBUG] Add Student!
+[logic] [23:36:19.920] [DEBUG] Add Student!
+[logic] [23:36:19.920] [DEBUG] Unknown Message!
+[logic] [23:36:19.920] [DEBUG] Unknown Message!
+[logic] [23:36:19.920] [DEBUG] Unknown Message!
+[logic] [23:36:19.920] [DEBUG] Unknown Message!
+[logic] [23:36:19.920] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:19.920] [INFO] Update state!
+[logic] [23:36:19.994] [DEBUG] Get message from server!
+[logic] [23:36:19.994] [DEBUG] Buffer cleared!
+[logic] [23:36:19.994] [DEBUG] Add Student!
+[logic] [23:36:19.994] [DEBUG] Add Student!
+[logic] [23:36:19.994] [DEBUG] Add Student!
+[logic] [23:36:19.994] [DEBUG] Add Student!
+[logic] [23:36:19.994] [DEBUG] Unknown Message!
+[logic] [23:36:19.994] [DEBUG] Unknown Message!
+[logic] [23:36:19.994] [DEBUG] Unknown Message!
+[logic] [23:36:19.994] [DEBUG] Unknown Message!
+[logic] [23:36:19.994] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:19.994] [INFO] Update state!
+[logic] [23:36:20.401] [DEBUG] Get message from server!
+[logic] [23:36:20.401] [DEBUG] Buffer cleared!
+[logic] [23:36:20.401] [DEBUG] Add Student!
+[logic] [23:36:20.401] [DEBUG] Add Student!
+[logic] [23:36:20.401] [DEBUG] Add Student!
+[logic] [23:36:20.401] [DEBUG] Add Student!
+[logic] [23:36:20.401] [DEBUG] Unknown Message!
+[logic] [23:36:20.401] [DEBUG] Unknown Message!
+[logic] [23:36:20.401] [DEBUG] Unknown Message!
+[logic] [23:36:20.401] [DEBUG] Unknown Message!
+[logic] [23:36:20.401] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:20.401] [INFO] Update state!
+[logic] [23:36:20.541] [DEBUG] Get message from server!
+[logic] [23:36:20.541] [DEBUG] Buffer cleared!
+[logic] [23:36:20.541] [DEBUG] Add Student!
+[logic] [23:36:20.541] [DEBUG] Add Student!
+[logic] [23:36:20.541] [DEBUG] Add Student!
+[logic] [23:36:20.541] [DEBUG] Add Student!
+[logic] [23:36:20.541] [DEBUG] Unknown Message!
+[logic] [23:36:20.541] [DEBUG] Unknown Message!
+[logic] [23:36:20.541] [DEBUG] Unknown Message!
+[logic] [23:36:20.541] [DEBUG] Unknown Message!
+[logic] [23:36:20.541] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:20.541] [INFO] Update state!
+[logic] [23:36:20.650] [DEBUG] Get message from server!
+[logic] [23:36:20.650] [DEBUG] Buffer cleared!
+[logic] [23:36:20.650] [DEBUG] Add Student!
+[logic] [23:36:20.650] [DEBUG] Add Student!
+[logic] [23:36:20.650] [DEBUG] Add Student!
+[logic] [23:36:20.650] [DEBUG] Add Student!
+[logic] [23:36:20.650] [DEBUG] Unknown Message!
+[logic] [23:36:20.650] [DEBUG] Unknown Message!
+[logic] [23:36:20.650] [DEBUG] Unknown Message!
+[logic] [23:36:20.650] [DEBUG] Unknown Message!
+[logic] [23:36:20.650] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:20.650] [INFO] Update state!
+[logic] [23:36:20.713] [DEBUG] Get message from server!
+[logic] [23:36:20.713] [DEBUG] Buffer cleared!
+[logic] [23:36:20.713] [DEBUG] Add Student!
+[logic] [23:36:20.713] [DEBUG] Add Student!
+[logic] [23:36:20.713] [DEBUG] Add Student!
+[logic] [23:36:20.713] [DEBUG] Add Student!
+[logic] [23:36:20.713] [DEBUG] Unknown Message!
+[logic] [23:36:20.713] [DEBUG] Unknown Message!
+[logic] [23:36:20.713] [DEBUG] Unknown Message!
+[logic] [23:36:20.713] [DEBUG] Unknown Message!
+[logic] [23:36:20.713] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:20.713] [INFO] Update state!
+[logic] [23:36:20.760] [DEBUG] Get message from server!
+[logic] [23:36:20.760] [DEBUG] Buffer cleared!
+[logic] [23:36:20.760] [DEBUG] Add Student!
+[logic] [23:36:20.760] [DEBUG] Add Student!
+[logic] [23:36:20.775] [DEBUG] Add Student!
+[logic] [23:36:20.775] [DEBUG] Add Student!
+[logic] [23:36:20.775] [DEBUG] Unknown Message!
+[logic] [23:36:20.775] [DEBUG] Unknown Message!
+[logic] [23:36:20.775] [DEBUG] Unknown Message!
+[logic] [23:36:20.775] [DEBUG] Unknown Message!
+[logic] [23:36:20.775] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:20.775] [INFO] Update state!
+[logic] [23:36:20.791] [DEBUG] Get message from server!
+[logic] [23:36:20.791] [DEBUG] Buffer cleared!
+[logic] [23:36:20.791] [DEBUG] Add Student!
+[logic] [23:36:20.791] [DEBUG] Add Student!
+[logic] [23:36:20.791] [DEBUG] Add Student!
+[logic] [23:36:20.791] [DEBUG] Add Student!
+[logic] [23:36:20.791] [DEBUG] Unknown Message!
+[logic] [23:36:20.791] [DEBUG] Unknown Message!
+[logic] [23:36:20.791] [DEBUG] Unknown Message!
+[logic] [23:36:20.791] [DEBUG] Unknown Message!
+[logic] [23:36:20.791] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:20.791] [INFO] Update state!
+[logic] [23:36:20.869] [DEBUG] Get message from server!
+[logic] [23:36:20.869] [DEBUG] Buffer cleared!
+[logic] [23:36:20.869] [DEBUG] Add Student!
+[logic] [23:36:20.869] [DEBUG] Add Student!
+[logic] [23:36:20.869] [DEBUG] Add Student!
+[logic] [23:36:20.869] [DEBUG] Add Student!
+[logic] [23:36:20.869] [DEBUG] Unknown Message!
+[logic] [23:36:20.869] [DEBUG] Unknown Message!
+[logic] [23:36:20.869] [DEBUG] Unknown Message!
+[logic] [23:36:20.869] [DEBUG] Unknown Message!
+[logic] [23:36:20.869] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:20.869] [INFO] Update state!
+[logic] [23:36:20.900] [DEBUG] Get message from server!
+[logic] [23:36:20.900] [DEBUG] Buffer cleared!
+[logic] [23:36:20.900] [DEBUG] Add Student!
+[logic] [23:36:20.900] [DEBUG] Add Student!
+[logic] [23:36:20.900] [DEBUG] Add Student!
+[logic] [23:36:20.900] [DEBUG] Add Student!
+[logic] [23:36:20.900] [DEBUG] Unknown Message!
+[logic] [23:36:20.900] [DEBUG] Unknown Message!
+[logic] [23:36:20.900] [DEBUG] Unknown Message!
+[logic] [23:36:20.900] [DEBUG] Unknown Message!
+[logic] [23:36:20.900] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:20.900] [INFO] Update state!
+[logic] [23:36:20.963] [DEBUG] Get message from server!
+[logic] [23:36:20.963] [DEBUG] Buffer cleared!
+[logic] [23:36:20.963] [DEBUG] Add Student!
+[logic] [23:36:20.963] [DEBUG] Add Student!
+[logic] [23:36:20.963] [DEBUG] Add Student!
+[logic] [23:36:20.963] [DEBUG] Add Student!
+[logic] [23:36:20.963] [DEBUG] Unknown Message!
+[logic] [23:36:20.963] [DEBUG] Unknown Message!
+[logic] [23:36:20.963] [DEBUG] Unknown Message!
+[logic] [23:36:20.963] [DEBUG] Unknown Message!
+[logic] [23:36:20.963] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:20.963] [INFO] Update state!
+[logic] [23:36:20.994] [DEBUG] Get message from server!
+[logic] [23:36:20.994] [DEBUG] Buffer cleared!
+[logic] [23:36:20.994] [DEBUG] Add Student!
+[logic] [23:36:20.994] [DEBUG] Add Student!
+[logic] [23:36:20.994] [DEBUG] Add Student!
+[logic] [23:36:20.994] [DEBUG] Add Student!
+[logic] [23:36:20.994] [DEBUG] Unknown Message!
+[logic] [23:36:20.994] [DEBUG] Unknown Message!
+[logic] [23:36:20.994] [DEBUG] Unknown Message!
+[logic] [23:36:20.994] [DEBUG] Unknown Message!
+[logic] [23:36:20.994] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:20.994] [INFO] Update state!
+[logic] [23:36:21.057] [DEBUG] Get message from server!
+[logic] [23:36:21.057] [DEBUG] Buffer cleared!
+[logic] [23:36:21.057] [DEBUG] Add Student!
+[logic] [23:36:21.057] [DEBUG] Add Student!
+[logic] [23:36:21.057] [DEBUG] Add Student!
+[logic] [23:36:21.057] [DEBUG] Add Student!
+[logic] [23:36:21.057] [DEBUG] Unknown Message!
+[logic] [23:36:21.057] [DEBUG] Unknown Message!
+[logic] [23:36:21.057] [DEBUG] Unknown Message!
+[logic] [23:36:21.057] [DEBUG] Unknown Message!
+[logic] [23:36:21.057] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.057] [INFO] Update state!
+[logic] [23:36:21.103] [DEBUG] Get message from server!
+[logic] [23:36:21.103] [DEBUG] Buffer cleared!
+[logic] [23:36:21.103] [DEBUG] Add Student!
+[logic] [23:36:21.103] [DEBUG] Add Student!
+[logic] [23:36:21.103] [DEBUG] Add Student!
+[logic] [23:36:21.103] [DEBUG] Add Student!
+[logic] [23:36:21.103] [DEBUG] Unknown Message!
+[logic] [23:36:21.103] [DEBUG] Unknown Message!
+[logic] [23:36:21.103] [DEBUG] Unknown Message!
+[logic] [23:36:21.103] [DEBUG] Unknown Message!
+[logic] [23:36:21.103] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.103] [INFO] Update state!
+[logic] [23:36:21.150] [DEBUG] Get message from server!
+[logic] [23:36:21.150] [DEBUG] Buffer cleared!
+[logic] [23:36:21.150] [DEBUG] Add Student!
+[logic] [23:36:21.150] [DEBUG] Add Student!
+[logic] [23:36:21.150] [DEBUG] Add Student!
+[logic] [23:36:21.150] [DEBUG] Add Student!
+[logic] [23:36:21.150] [DEBUG] Unknown Message!
+[logic] [23:36:21.150] [DEBUG] Unknown Message!
+[logic] [23:36:21.150] [DEBUG] Unknown Message!
+[logic] [23:36:21.150] [DEBUG] Unknown Message!
+[logic] [23:36:21.150] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.150] [INFO] Update state!
+[logic] [23:36:21.197] [DEBUG] Get message from server!
+[logic] [23:36:21.197] [DEBUG] Buffer cleared!
+[logic] [23:36:21.197] [DEBUG] Add Student!
+[logic] [23:36:21.197] [DEBUG] Add Student!
+[logic] [23:36:21.197] [DEBUG] Add Student!
+[logic] [23:36:21.197] [DEBUG] Add Student!
+[logic] [23:36:21.197] [DEBUG] Unknown Message!
+[logic] [23:36:21.197] [DEBUG] Unknown Message!
+[logic] [23:36:21.197] [DEBUG] Unknown Message!
+[logic] [23:36:21.197] [DEBUG] Unknown Message!
+[logic] [23:36:21.197] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.197] [INFO] Update state!
+[logic] [23:36:21.244] [DEBUG] Get message from server!
+[logic] [23:36:21.244] [DEBUG] Buffer cleared!
+[logic] [23:36:21.244] [DEBUG] Add Student!
+[logic] [23:36:21.244] [DEBUG] Add Student!
+[logic] [23:36:21.244] [DEBUG] Add Student!
+[logic] [23:36:21.244] [DEBUG] Add Student!
+[logic] [23:36:21.244] [DEBUG] Unknown Message!
+[logic] [23:36:21.244] [DEBUG] Unknown Message!
+[logic] [23:36:21.244] [DEBUG] Unknown Message!
+[logic] [23:36:21.244] [DEBUG] Unknown Message!
+[logic] [23:36:21.244] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.244] [INFO] Update state!
+[logic] [23:36:21.307] [DEBUG] Get message from server!
+[logic] [23:36:21.307] [DEBUG] Buffer cleared!
+[logic] [23:36:21.307] [DEBUG] Add Student!
+[logic] [23:36:21.307] [DEBUG] Add Student!
+[logic] [23:36:21.307] [DEBUG] Add Student!
+[logic] [23:36:21.307] [DEBUG] Add Student!
+[logic] [23:36:21.307] [DEBUG] Unknown Message!
+[logic] [23:36:21.307] [DEBUG] Unknown Message!
+[logic] [23:36:21.307] [DEBUG] Unknown Message!
+[logic] [23:36:21.307] [DEBUG] Unknown Message!
+[logic] [23:36:21.307] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.307] [INFO] Update state!
+[logic] [23:36:21.353] [DEBUG] Get message from server!
+[logic] [23:36:21.353] [DEBUG] Buffer cleared!
+[logic] [23:36:21.353] [DEBUG] Add Student!
+[logic] [23:36:21.353] [DEBUG] Add Student!
+[logic] [23:36:21.353] [DEBUG] Add Student!
+[logic] [23:36:21.353] [DEBUG] Add Student!
+[logic] [23:36:21.353] [DEBUG] Unknown Message!
+[logic] [23:36:21.353] [DEBUG] Unknown Message!
+[logic] [23:36:21.353] [DEBUG] Unknown Message!
+[logic] [23:36:21.353] [DEBUG] Unknown Message!
+[logic] [23:36:21.353] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.353] [INFO] Update state!
+[logic] [23:36:21.400] [DEBUG] Get message from server!
+[logic] [23:36:21.400] [DEBUG] Buffer cleared!
+[logic] [23:36:21.400] [DEBUG] Add Student!
+[logic] [23:36:21.400] [DEBUG] Add Student!
+[logic] [23:36:21.400] [DEBUG] Add Student!
+[logic] [23:36:21.400] [DEBUG] Add Student!
+[logic] [23:36:21.400] [DEBUG] Unknown Message!
+[logic] [23:36:21.400] [DEBUG] Unknown Message!
+[logic] [23:36:21.400] [DEBUG] Unknown Message!
+[logic] [23:36:21.400] [DEBUG] Unknown Message!
+[logic] [23:36:21.400] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.400] [INFO] Update state!
+[logic] [23:36:21.447] [DEBUG] Get message from server!
+[logic] [23:36:21.447] [DEBUG] Buffer cleared!
+[logic] [23:36:21.447] [DEBUG] Add Student!
+[logic] [23:36:21.447] [DEBUG] Add Student!
+[logic] [23:36:21.447] [DEBUG] Add Student!
+[logic] [23:36:21.447] [DEBUG] Add Student!
+[logic] [23:36:21.447] [DEBUG] Unknown Message!
+[logic] [23:36:21.447] [DEBUG] Unknown Message!
+[logic] [23:36:21.447] [DEBUG] Unknown Message!
+[logic] [23:36:21.447] [DEBUG] Unknown Message!
+[logic] [23:36:21.447] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.447] [INFO] Update state!
+[logic] [23:36:21.494] [DEBUG] Get message from server!
+[logic] [23:36:21.494] [DEBUG] Buffer cleared!
+[logic] [23:36:21.494] [DEBUG] Add Student!
+[logic] [23:36:21.494] [DEBUG] Add Student!
+[logic] [23:36:21.494] [DEBUG] Add Student!
+[logic] [23:36:21.494] [DEBUG] Add Student!
+[logic] [23:36:21.494] [DEBUG] Unknown Message!
+[logic] [23:36:21.494] [DEBUG] Unknown Message!
+[logic] [23:36:21.494] [DEBUG] Unknown Message!
+[logic] [23:36:21.494] [DEBUG] Unknown Message!
+[logic] [23:36:21.494] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.494] [INFO] Update state!
+[logic] [23:36:21.556] [DEBUG] Get message from server!
+[logic] [23:36:21.556] [DEBUG] Buffer cleared!
+[logic] [23:36:21.556] [DEBUG] Add Student!
+[logic] [23:36:21.556] [DEBUG] Add Student!
+[logic] [23:36:21.556] [DEBUG] Add Student!
+[logic] [23:36:21.556] [DEBUG] Add Student!
+[logic] [23:36:21.556] [DEBUG] Unknown Message!
+[logic] [23:36:21.556] [DEBUG] Unknown Message!
+[logic] [23:36:21.556] [DEBUG] Unknown Message!
+[logic] [23:36:21.556] [DEBUG] Unknown Message!
+[logic] [23:36:21.556] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.556] [INFO] Update state!
+[logic] [23:36:21.603] [DEBUG] Get message from server!
+[logic] [23:36:21.603] [DEBUG] Buffer cleared!
+[logic] [23:36:21.603] [DEBUG] Add Student!
+[logic] [23:36:21.603] [DEBUG] Add Student!
+[logic] [23:36:21.603] [DEBUG] Add Student!
+[logic] [23:36:21.603] [DEBUG] Add Student!
+[logic] [23:36:21.603] [DEBUG] Unknown Message!
+[logic] [23:36:21.603] [DEBUG] Unknown Message!
+[logic] [23:36:21.603] [DEBUG] Unknown Message!
+[logic] [23:36:21.603] [DEBUG] Unknown Message!
+[logic] [23:36:21.603] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.603] [INFO] Update state!
+[logic] [23:36:21.656] [DEBUG] Get message from server!
+[logic] [23:36:21.656] [DEBUG] Buffer cleared!
+[logic] [23:36:21.656] [DEBUG] Add Student!
+[logic] [23:36:21.656] [DEBUG] Add Student!
+[logic] [23:36:21.656] [DEBUG] Add Student!
+[logic] [23:36:21.656] [DEBUG] Add Student!
+[logic] [23:36:21.656] [DEBUG] Unknown Message!
+[logic] [23:36:21.656] [DEBUG] Unknown Message!
+[logic] [23:36:21.656] [DEBUG] Unknown Message!
+[logic] [23:36:21.656] [DEBUG] Unknown Message!
+[logic] [23:36:21.656] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.656] [INFO] Update state!
+[logic] [23:36:21.688] [DEBUG] Get message from server!
+[logic] [23:36:21.688] [DEBUG] Buffer cleared!
+[logic] [23:36:21.688] [DEBUG] Add Student!
+[logic] [23:36:21.688] [DEBUG] Add Student!
+[logic] [23:36:21.688] [DEBUG] Add Student!
+[logic] [23:36:21.688] [DEBUG] Add Student!
+[logic] [23:36:21.688] [DEBUG] Unknown Message!
+[logic] [23:36:21.688] [DEBUG] Unknown Message!
+[logic] [23:36:21.688] [DEBUG] Unknown Message!
+[logic] [23:36:21.688] [DEBUG] Unknown Message!
+[logic] [23:36:21.688] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.688] [INFO] Update state!
+[logic] [23:36:21.747] [DEBUG] Get message from server!
+[logic] [23:36:21.747] [DEBUG] Buffer cleared!
+[logic] [23:36:21.747] [DEBUG] Add Student!
+[logic] [23:36:21.747] [DEBUG] Add Student!
+[logic] [23:36:21.747] [DEBUG] Add Student!
+[logic] [23:36:21.747] [DEBUG] Add Student!
+[logic] [23:36:21.747] [DEBUG] Unknown Message!
+[logic] [23:36:21.747] [DEBUG] Unknown Message!
+[logic] [23:36:21.747] [DEBUG] Unknown Message!
+[logic] [23:36:21.747] [DEBUG] Unknown Message!
+[logic] [23:36:21.747] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.747] [INFO] Update state!
+[logic] [23:36:21.809] [DEBUG] Get message from server!
+[logic] [23:36:21.809] [DEBUG] Buffer cleared!
+[logic] [23:36:21.809] [DEBUG] Add Student!
+[logic] [23:36:21.809] [DEBUG] Add Student!
+[logic] [23:36:21.809] [DEBUG] Add Student!
+[logic] [23:36:21.809] [DEBUG] Add Student!
+[logic] [23:36:21.809] [DEBUG] Unknown Message!
+[logic] [23:36:21.809] [DEBUG] Unknown Message!
+[logic] [23:36:21.809] [DEBUG] Unknown Message!
+[logic] [23:36:21.809] [DEBUG] Unknown Message!
+[logic] [23:36:21.809] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.809] [INFO] Update state!
+[logic] [23:36:21.856] [DEBUG] Get message from server!
+[logic] [23:36:21.856] [DEBUG] Buffer cleared!
+[logic] [23:36:21.856] [DEBUG] Add Student!
+[logic] [23:36:21.856] [DEBUG] Add Student!
+[logic] [23:36:21.856] [DEBUG] Add Student!
+[logic] [23:36:21.856] [DEBUG] Add Student!
+[logic] [23:36:21.856] [DEBUG] Unknown Message!
+[logic] [23:36:21.856] [DEBUG] Unknown Message!
+[logic] [23:36:21.856] [DEBUG] Unknown Message!
+[logic] [23:36:21.856] [DEBUG] Unknown Message!
+[logic] [23:36:21.856] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.856] [INFO] Update state!
+[logic] [23:36:21.903] [DEBUG] Get message from server!
+[logic] [23:36:21.903] [DEBUG] Buffer cleared!
+[logic] [23:36:21.903] [DEBUG] Add Student!
+[logic] [23:36:21.903] [DEBUG] Add Student!
+[logic] [23:36:21.903] [DEBUG] Add Student!
+[logic] [23:36:21.903] [DEBUG] Add Student!
+[logic] [23:36:21.903] [DEBUG] Unknown Message!
+[logic] [23:36:21.903] [DEBUG] Unknown Message!
+[logic] [23:36:21.903] [DEBUG] Unknown Message!
+[logic] [23:36:21.903] [DEBUG] Unknown Message!
+[logic] [23:36:21.903] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.903] [INFO] Update state!
+[logic] [23:36:21.950] [DEBUG] Get message from server!
+[logic] [23:36:21.950] [DEBUG] Buffer cleared!
+[logic] [23:36:21.950] [DEBUG] Add Student!
+[logic] [23:36:21.950] [DEBUG] Add Student!
+[logic] [23:36:21.950] [DEBUG] Add Student!
+[logic] [23:36:21.950] [DEBUG] Add Student!
+[logic] [23:36:21.950] [DEBUG] Unknown Message!
+[logic] [23:36:21.950] [DEBUG] Unknown Message!
+[logic] [23:36:21.950] [DEBUG] Unknown Message!
+[logic] [23:36:21.950] [DEBUG] Unknown Message!
+[logic] [23:36:21.950] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.950] [INFO] Update state!
+[logic] [23:36:21.998] [DEBUG] Get message from server!
+[logic] [23:36:21.998] [DEBUG] Buffer cleared!
+[logic] [23:36:21.998] [DEBUG] Add Student!
+[logic] [23:36:21.998] [DEBUG] Add Student!
+[logic] [23:36:21.998] [DEBUG] Add Student!
+[logic] [23:36:21.998] [DEBUG] Add Student!
+[logic] [23:36:21.998] [DEBUG] Unknown Message!
+[logic] [23:36:21.998] [DEBUG] Unknown Message!
+[logic] [23:36:21.998] [DEBUG] Unknown Message!
+[logic] [23:36:21.998] [DEBUG] Unknown Message!
+[logic] [23:36:21.998] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:21.998] [INFO] Update state!
+[logic] [23:36:22.060] [DEBUG] Get message from server!
+[logic] [23:36:22.060] [DEBUG] Buffer cleared!
+[logic] [23:36:22.060] [DEBUG] Add Student!
+[logic] [23:36:22.060] [DEBUG] Add Student!
+[logic] [23:36:22.060] [DEBUG] Add Student!
+[logic] [23:36:22.060] [DEBUG] Add Student!
+[logic] [23:36:22.060] [DEBUG] Unknown Message!
+[logic] [23:36:22.060] [DEBUG] Unknown Message!
+[logic] [23:36:22.060] [DEBUG] Unknown Message!
+[logic] [23:36:22.060] [DEBUG] Unknown Message!
+[logic] [23:36:22.060] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:22.060] [INFO] Update state!
+[logic] [23:36:22.107] [DEBUG] Get message from server!
+[logic] [23:36:22.107] [DEBUG] Buffer cleared!
+[logic] [23:36:22.107] [DEBUG] Add Student!
+[logic] [23:36:22.107] [DEBUG] Add Student!
+[logic] [23:36:22.107] [DEBUG] Add Student!
+[logic] [23:36:22.107] [DEBUG] Add Student!
+[logic] [23:36:22.107] [DEBUG] Unknown Message!
+[logic] [23:36:22.107] [DEBUG] Unknown Message!
+[logic] [23:36:22.107] [DEBUG] Unknown Message!
+[logic] [23:36:22.107] [DEBUG] Unknown Message!
+[logic] [23:36:22.107] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:22.107] [INFO] Update state!
+[logic] [23:36:22.170] [DEBUG] Get message from server!
+[logic] [23:36:22.170] [DEBUG] Buffer cleared!
+[logic] [23:36:22.170] [DEBUG] Add Student!
+[logic] [23:36:22.170] [DEBUG] Add Student!
+[logic] [23:36:22.170] [DEBUG] Add Student!
+[logic] [23:36:22.170] [DEBUG] Add Student!
+[logic] [23:36:22.170] [DEBUG] Unknown Message!
+[logic] [23:36:22.170] [DEBUG] Unknown Message!
+[logic] [23:36:22.170] [DEBUG] Unknown Message!
+[logic] [23:36:22.170] [DEBUG] Unknown Message!
+[logic] [23:36:22.170] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:22.170] [INFO] Update state!
+[logic] [23:36:22.201] [DEBUG] Get message from server!
+[logic] [23:36:22.201] [DEBUG] Buffer cleared!
+[logic] [23:36:22.201] [DEBUG] Add Student!
+[logic] [23:36:22.201] [DEBUG] Add Student!
+[logic] [23:36:22.201] [DEBUG] Add Student!
+[logic] [23:36:22.201] [DEBUG] Add Student!
+[logic] [23:36:22.201] [DEBUG] Unknown Message!
+[logic] [23:36:22.201] [DEBUG] Unknown Message!
+[logic] [23:36:22.201] [DEBUG] Unknown Message!
+[logic] [23:36:22.201] [DEBUG] Unknown Message!
+[logic] [23:36:22.201] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:22.201] [INFO] Update state!
+[logic] [23:36:22.248] [DEBUG] Get message from server!
+[logic] [23:36:22.248] [DEBUG] Buffer cleared!
+[logic] [23:36:22.248] [DEBUG] Add Student!
+[logic] [23:36:22.248] [DEBUG] Add Student!
+[logic] [23:36:22.248] [DEBUG] Add Student!
+[logic] [23:36:22.248] [DEBUG] Add Student!
+[logic] [23:36:22.248] [DEBUG] Unknown Message!
+[logic] [23:36:22.248] [DEBUG] Unknown Message!
+[logic] [23:36:22.248] [DEBUG] Unknown Message!
+[logic] [23:36:22.248] [DEBUG] Unknown Message!
+[logic] [23:36:22.248] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:22.248] [INFO] Update state!
+[logic] [23:36:22.310] [DEBUG] Get message from server!
+[logic] [23:36:22.310] [DEBUG] Buffer cleared!
+[logic] [23:36:22.310] [DEBUG] Add Student!
+[logic] [23:36:22.310] [DEBUG] Add Student!
+[logic] [23:36:22.310] [DEBUG] Add Student!
+[logic] [23:36:22.310] [DEBUG] Add Student!
+[logic] [23:36:22.310] [DEBUG] Unknown Message!
+[logic] [23:36:22.310] [DEBUG] Unknown Message!
+[logic] [23:36:22.310] [DEBUG] Unknown Message!
+[logic] [23:36:22.310] [DEBUG] Unknown Message!
+[logic] [23:36:22.310] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:22.310] [INFO] Update state!
+[logic] [23:36:22.357] [DEBUG] Get message from server!
+[logic] [23:36:22.357] [DEBUG] Buffer cleared!
+[logic] [23:36:22.357] [DEBUG] Add Student!
+[logic] [23:36:22.357] [DEBUG] Add Student!
+[logic] [23:36:22.357] [DEBUG] Add Student!
+[logic] [23:36:22.357] [DEBUG] Add Student!
+[logic] [23:36:22.357] [DEBUG] Unknown Message!
+[logic] [23:36:22.357] [DEBUG] Unknown Message!
+[logic] [23:36:22.357] [DEBUG] Unknown Message!
+[logic] [23:36:22.357] [DEBUG] Unknown Message!
+[logic] [23:36:22.357] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:22.357] [INFO] Update state!
+[logic] [23:36:22.404] [DEBUG] Get message from server!
+[logic] [23:36:22.404] [DEBUG] Buffer cleared!
+[logic] [23:36:22.404] [DEBUG] Add Student!
+[logic] [23:36:22.404] [DEBUG] Add Student!
+[logic] [23:36:22.404] [DEBUG] Add Student!
+[logic] [23:36:22.404] [DEBUG] Add Student!
+[logic] [23:36:22.404] [DEBUG] Unknown Message!
+[logic] [23:36:22.404] [DEBUG] Unknown Message!
+[logic] [23:36:22.404] [DEBUG] Unknown Message!
+[logic] [23:36:22.404] [DEBUG] Unknown Message!
+[logic] [23:36:22.404] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:22.404] [INFO] Update state!
+[logic] [23:36:22.451] [DEBUG] Get message from server!
+[logic] [23:36:22.451] [DEBUG] Buffer cleared!
+[logic] [23:36:22.451] [DEBUG] Add Student!
+[logic] [23:36:22.451] [DEBUG] Add Student!
+[logic] [23:36:22.451] [DEBUG] Add Student!
+[logic] [23:36:22.451] [DEBUG] Add Student!
+[logic] [23:36:22.451] [DEBUG] Unknown Message!
+[logic] [23:36:22.451] [DEBUG] Unknown Message!
+[logic] [23:36:22.451] [DEBUG] Unknown Message!
+[logic] [23:36:22.451] [DEBUG] Unknown Message!
+[logic] [23:36:22.451] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:22.451] [INFO] Update state!
+[logic] [23:36:22.498] [DEBUG] Get message from server!
+[logic] [23:36:22.498] [DEBUG] Buffer cleared!
+[logic] [23:36:22.498] [DEBUG] Add Student!
+[logic] [23:36:22.498] [DEBUG] Add Student!
+[logic] [23:36:22.498] [DEBUG] Add Student!
+[logic] [23:36:22.498] [DEBUG] Add Student!
+[logic] [23:36:22.498] [DEBUG] Unknown Message!
+[logic] [23:36:22.498] [DEBUG] Unknown Message!
+[logic] [23:36:22.498] [DEBUG] Unknown Message!
+[logic] [23:36:22.498] [DEBUG] Unknown Message!
+[logic] [23:36:22.498] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:22.498] [INFO] Update state!
+[logic] [23:36:22.560] [DEBUG] Get message from server!
+[logic] [23:36:22.560] [DEBUG] Buffer cleared!
+[logic] [23:36:22.560] [DEBUG] Add Student!
+[logic] [23:36:22.560] [DEBUG] Add Student!
+[logic] [23:36:22.560] [DEBUG] Add Student!
+[logic] [23:36:22.560] [DEBUG] Add Student!
+[logic] [23:36:22.560] [DEBUG] Unknown Message!
+[logic] [23:36:22.560] [DEBUG] Unknown Message!
+[logic] [23:36:22.560] [DEBUG] Unknown Message!
+[logic] [23:36:22.560] [DEBUG] Unknown Message!
+[logic] [23:36:22.560] [DEBUG] Update Chest at 13, 31
+[logic] [23:36:22.560] [INFO] Update state!

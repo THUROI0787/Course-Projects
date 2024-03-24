@@ -1,0 +1,1 @@
+ori: image_0343.jpg
